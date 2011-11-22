@@ -1,33 +1,34 @@
 package edu.uwsp.lucene;
 
-//import org.apache.lucene.document.Document;
-import org.w3c.*; 
-import org.w3c.dom.Document;
-import org.apache.lucene.document.*;
+import java.io.FileReader;
 
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.parsers.SAXParser;
+import javax.xml.parsers.SAXParserFactory;
 
+import org.apache.lucene.document.Document;
+import org.xml.sax.InputSource;
+import org.xml.sax.SAXException;
+import org.xml.sax.XMLReader;
 
 public class LuceneMain {
 
 	/**
 	 * @param args
+	 * @throws Exception 
 	 */
-	private static org.apache.lucene.document.Document luceneDocument;
-	
-	public static void main(String[] args) {
-		String dirPath = "/data/";
-		String fileName = "address-example.xml";
-		
-		//parses XML file into Document object
-		Document xmlDoc = DOMUtil.parse(dirPath+fileName);
-	
-		luceneDocument = new org.apache.lucene.document.Document();
-		//luceneDocument.add(new Field.Text());
-		
-	
-		
+	public static void main(String[] args) throws Exception{
+		String file = "department.xml";
+		SAXParserFactory pfactory = SAXParserFactory.newInstance();
+		pfactory.setValidating(false);
+		pfactory.setNamespaceAware(true);
+		SAXParser parser = pfactory.newSAXParser();
+		XMLReader reader = parser.getXMLReader();
+		LuceneSaxParser splitter = new LuceneSaxParser();
+		reader.setContentHandler(splitter);
+		reader.parse(new InputSource(new FileReader(file)));
+		Document doc = splitter.getDoc();
+		System.out.println(doc.getFields().size());
 	}
-	
-	
 
 }
