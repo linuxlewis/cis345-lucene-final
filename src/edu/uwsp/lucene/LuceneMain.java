@@ -78,7 +78,7 @@ public class LuceneMain {
 		iw.close();
 		
 		IndexSearcher is = new IndexSearcher(d,true);
-		Query query = new TermQuery(new Term("lastname", "Aboulnaga"));
+		Query query = new TermQuery(new Term("country", "Croatia"));
         TopScoreDocCollector collector = TopScoreDocCollector.create(10,true);
         is.search(query,collector);
         ScoreDoc[] hits = collector.topDocs().scoreDocs;
@@ -87,7 +87,7 @@ public class LuceneMain {
         for(int i=0;i<hits.length;++i) {
           int docId = hits[i].doc;
           Document de = is.doc(docId);
-          System.out.println((i + 1) + ". " + de.get("lastname"));
+          System.out.println((i + 1) + ". " + de.get("country"));
         }
 
         // searcher can only be closed when there
