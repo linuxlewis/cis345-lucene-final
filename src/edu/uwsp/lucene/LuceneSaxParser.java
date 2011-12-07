@@ -43,4 +43,8 @@ public class LuceneSaxParser extends DefaultHandler {
 		startTag = localName;
 	}
 
+	public void clearDoc() {
+		doc = new Document();
+	}
+
 }

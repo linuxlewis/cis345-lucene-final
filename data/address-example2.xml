@@ -15,5 +15,7 @@
         <city>Zagreb</city>
         <province></province>
         <postalcode>10000</postalcode>
+        <country>Croatia</country>
+        <telephone>385-1-123-4567</telephone>
     </contact>
 </address-book>
