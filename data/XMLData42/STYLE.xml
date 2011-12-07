@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Dry Stout</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Stout</CATEGORY>
+ <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.03600000</OG_MIN>
+ <OG_MAX>1.05000000</OG_MAX>
+ <FG_MIN>1.00700000</FG_MIN>
+ <FG_MAX>1.01100000</FG_MAX>
+ <IBU_MIN>30.0</IBU_MIN>
+ <IBU_MAX>45.0</IBU_MAX>
+ <COLOR_MIN>25.00000000</COLOR_MIN>
+ <COLOR_MAX>45.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.5></CARB_MAX>
+ <ABV_MAX>5.0</ABV_MAX>
+ <ABV_MIN>4.0</ABV_MIN>
+ <NOTES>Famous Irish Stout (AKA Guiness). Dry roasted almost coffee like flavor.  Irish versions have low starting gravity.  Often mixed with soured, pasturized beer (3%) to give a slight acidity as well.</NOTES>
+ <PROFILE>Medium-light to medium full body. Creamy. Dry roasted grainy flavor.  Generous hops, though roast malt flavor will dominate. Complex fruity flavor. Black opaque color. Low to moderate carbonation.</PROFILE>
+ <INGREDIENTS>English malt. Roasted Barley and Flaked Barley for all grain.  Some chocolate or black patent used in extract recipes. Goldings or Fuggles hops.  Low sulfate, high calcium water.</INGREDIENTS>
+ <EXAMPLES>Guiness Stout, Old Dominion Stout, Goose Island Dublin Stout, Murphy's Stout, O'Hara's Celtic Stout</EXAMPLES>
+ <DISPLAY_OG_MIN>1.036 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.050 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.007 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.011 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>25.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>45.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.036-1.050 SG</OG_RANGE>
+ <FG_RANGE>1.007-1.011 SG</FG_RANGE>
+ <IBU_RANGE>30.0-45.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.5 vols</CARB_RANGE>
+ <COLOR_RANGE>25.0-45.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>4.0-5.0 %</ABV_RANGE>
+</STYLE>

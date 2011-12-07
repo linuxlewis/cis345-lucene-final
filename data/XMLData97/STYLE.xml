@@ -1,0 +1,39 @@
+
+
+<STYLE>
+ <NAME>Applewine</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Specialty Cider and Perry</CATEGORY>
+ <CATEGORY_NUMBER>28</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Cider</TYPE>
+ <OG_MIN>1.07000000</OG_MIN>
+ <OG_MAX>1.10000000</OG_MAX>
+ <FG_MIN>0.99500000</FG_MIN>
+ <FG_MAX>1.01000000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>0.0</IBU_MAX>
+ <COLOR_MIN>1.00000000</COLOR_MIN>
+ <COLOR_MAX>10.00000000</COLOR_MAX>
+ <CARB_MIN>1.0</CARB_MIN>
+ <CARB_MAX>2.8></CARB_MAX>
+ <ABV_MAX>12.0</ABV_MAX>
+ <ABV_MIN>9.0</ABV_MIN>
+ <NOTES>Cider with substantial sugar added to achieve higher than normal alcohol levels.  Entrants MUST specify carbonation level (still petillant or sparking), fruits used and sweetness (dry, medium)</NOTES>
+ <PROFILE>Lighter than other ciders due to high alcohol. Like a dry white wine. Balanced with low astringency and bitterness. Comparable in flavor and aroma to common cider. Clear to brilliant. Pale to med-gold color.</PROFILE>
+ <INGREDIENTS>Apples with substantial sugar additives to raise original gravity and alcohol. High attenuation yeast.</INGREDIENTS>
+ <EXAMPLES>Appel Treow "Appely", Irvine's Vintage Ciders</EXAMPLES>
+ <DISPLAY_OG_MIN>1.070 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.100 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>0.995 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.010 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>1.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>10.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.070-1.100 SG</OG_RANGE>
+ <FG_RANGE>0.995-1.010 SG</FG_RANGE>
+ <IBU_RANGE>0.0-0.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.0-2.8 vols</CARB_RANGE>
+ <COLOR_RANGE>1.0-10.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>9.0-12.0 %</ABV_RANGE>
+</STYLE>

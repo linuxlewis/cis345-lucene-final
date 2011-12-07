@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Brown Porter</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Porter</CATEGORY>
+ <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.04000000</OG_MIN>
+ <OG_MAX>1.05200000</OG_MAX>
+ <FG_MIN>1.00800000</FG_MIN>
+ <FG_MAX>1.01400000</FG_MAX>
+ <IBU_MIN>18.0</IBU_MIN>
+ <IBU_MAX>35.0</IBU_MAX>
+ <COLOR_MIN>20.00000000</COLOR_MIN>
+ <COLOR_MAX>30.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.5></CARB_MAX>
+ <ABV_MAX>5.4</ABV_MAX>
+ <ABV_MIN>4.0</ABV_MIN>
+ <NOTES>Softer, sweeter and more caramel flavor than than robust porter.  A very drinkable, popular, well balanced dark ale without the roast barley flavor of stout.  Mild roastiness or chocolate flavor may be evident.</NOTES>
+ <PROFILE>Light-Med to medium body. Well balanced low to medium malt flavor and hop bitterness.  Medium to dark brown. Medium to no hop flavor.  No roast character.  Low ester, fruitiness, diacytl.  Low to medium carbonation.</PROFILE>
+ <INGREDIENTS>English malt. Dark Crystal, chocolate and black or roast malt. Traditional english ale hops and yeast.  Moderate carbonate water.</INGREDIENTS>
+ <EXAMPLES>Burton Porter, Whitbread Porter, Yuengling Porter, Samuel Smith Taddy Porter, Fuller's London Porter, St Peter's Old-Style Porter, Bateman's Salem Porter, Flag Porter</EXAMPLES>
+ <DISPLAY_OG_MIN>1.040 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.052 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.008 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.014 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>20.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>30.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.040-1.052 SG</OG_RANGE>
+ <FG_RANGE>1.008-1.014 SG</FG_RANGE>
+ <IBU_RANGE>18.0-35.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.5 vols</CARB_RANGE>
+ <COLOR_RANGE>20.0-30.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>4.0-5.4 %</ABV_RANGE>
+</STYLE>

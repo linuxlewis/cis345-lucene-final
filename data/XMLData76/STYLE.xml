@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Christmas/Winter Specialty Spice Beer</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Spice/Herb/Vegetable Beer</CATEGORY>
+ <CATEGORY_NUMBER>21</CATEGORY_NUMBER>
+ <STYLE_LETTER>B</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Mixed</TYPE>
+ <OG_MIN>1.03000000</OG_MIN>
+ <OG_MAX>1.11000000</OG_MAX>
+ <FG_MIN>1.00500000</FG_MIN>
+ <FG_MAX>1.02500000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>70.0</IBU_MAX>
+ <COLOR_MIN>5.00000000</COLOR_MIN>
+ <COLOR_MAX>50.00000000</COLOR_MAX>
+ <CARB_MIN>2.0</CARB_MIN>
+ <CARB_MAX>3.0></CARB_MAX>
+ <ABV_MAX>12.0</ABV_MAX>
+ <ABV_MIN>2.5</ABV_MIN>
+ <NOTES>Broad category for winter and spiced specialty beers. US and Belgian in most cases. Entrant may declare an underlying beer style as well as special ingredients used.  Not required.  The beer must include spices.</NOTES>
+ <PROFILE>Varies by spice and base style.  Balance in flavor is important.  Spices should compliment and enhance flavor of the base style of beer, but not overpower it.  Often rich in body with a warming finish. Moderate to high carbonation.</PROFILE>
+ <INGREDIENTS>Vary by base style.  Generally ales. Spices required.  Fruit peel may be used. Often crystal malts are used for dark fruit or caramel flavor.  Balance is important in well made spice beers.  Spices should be distinctive, but not overwhelming.</INGREDIENTS>
+ <EXAMPLES>Anchor Our Special Ale, Weyerbacher Winter Ale, Harpoon Winter Warmer, North Coast Wintertime Ale, Great Lakes Christmas Ale, Samual Adams Winter Lager. Goose Island Christmas Ale, many more...</EXAMPLES>
+ <DISPLAY_OG_MIN>1.030 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.110 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.005 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.025 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>5.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>50.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.030-1.110 SG</OG_RANGE>
+ <FG_RANGE>1.005-1.025 SG</FG_RANGE>
+ <IBU_RANGE>0.0-70.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.0-3.0 vols</CARB_RANGE>
+ <COLOR_RANGE>5.0-50.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>2.5-12.0 %</ABV_RANGE>
+</STYLE>

@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Open Category Mead</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Other Mead</CATEGORY>
+ <CATEGORY_NUMBER>26</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Mead</TYPE>
+ <OG_MIN>1.07000000</OG_MIN>
+ <OG_MAX>1.13000000</OG_MAX>
+ <FG_MIN>0.99500000</FG_MIN>
+ <FG_MAX>1.02500000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>50.0</IBU_MAX>
+ <COLOR_MIN>1.00000000</COLOR_MIN>
+ <COLOR_MAX>16.00000000</COLOR_MAX>
+ <CARB_MIN>0.0</CARB_MIN>
+ <CARB_MAX>0.0></CARB_MAX>
+ <ABV_MAX>15.0</ABV_MAX>
+ <ABV_MIN>7.5</ABV_MIN>
+ <NOTES>Any mead that does not fit neartly into one of the other mead categories.  May also include a combination of ingredients from two or more other mead categories.</NOTES>
+ <PROFILE>Varies according to mix, but should be well balanced and pleasant in character.</PROFILE>
+ <INGREDIENTS>Vary by style and ingredients.  Must be a honey based beverage.</INGREDIENTS>
+ <EXAMPLES>Jadwiga, Rabbit's Foot Private Reserve Pear Mead, White Winter Cherry Bracket, Saba Tej, Mountain Meadows Aguave Mead</EXAMPLES>
+ <DISPLAY_OG_MIN>1.070 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.130 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>0.995 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.025 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>1.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>16.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.070-1.130 SG</OG_RANGE>
+ <FG_RANGE>0.995-1.025 SG</FG_RANGE>
+ <IBU_RANGE>0.0-50.0 IBU</IBU_RANGE>
+ <CARB_RANGE>0.0-0.0 vols</CARB_RANGE>
+ <COLOR_RANGE>1.0-16.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>7.5-15.0 %</ABV_RANGE>
+</STYLE>

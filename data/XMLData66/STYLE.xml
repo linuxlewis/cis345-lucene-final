@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Belgian Blond Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Belgian Strong Ale</CATEGORY>
+ <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.06200000</OG_MIN>
+ <OG_MAX>1.07500000</OG_MAX>
+ <FG_MIN>1.00800000</FG_MIN>
+ <FG_MAX>1.01600000</FG_MAX>
+ <IBU_MIN>20.0</IBU_MIN>
+ <IBU_MAX>30.0</IBU_MAX>
+ <COLOR_MIN>4.00000000</COLOR_MIN>
+ <COLOR_MAX>6.00000000</COLOR_MAX>
+ <CARB_MIN>2.2</CARB_MIN>
+ <CARB_MAX>2.8></CARB_MAX>
+ <ABV_MAX>7.5</ABV_MAX>
+ <ABV_MIN>6.0</ABV_MIN>
+ <NOTES>Recent development meant to appeal to European Pilsner drinkers.  Becoming more popular over time. A medium strength golden ale with Belgian complexity.</NOTES>
+ <PROFILE>Medium body. Somewhat malty sweetness, but medium-dry to dry finish.  Medium hop and alcohol balance. Light spicy/earthy hop flavor. Some candi-sugar sweetness. Light to deep gold color. Highly carbonated.</PROFILE>
+ <INGREDIENTS>Belgian pilsner malt, aromatic malts, candi sugar or sucrose.  Belgian yeast strains produce complex character. Noble Styrian Goldings or East Kent Goldings hops. No spices.</INGREDIENTS>
+ <EXAMPLES>Leffe Blond, Grimbergen Blond, Val-Dieu Blond, Pater Lieven Blond Abbey Ale, Affigen Blond, La Trappe Blond</EXAMPLES>
+ <DISPLAY_OG_MIN>1.062 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.075 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.008 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.016 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>4.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>6.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.062-1.075 SG</OG_RANGE>
+ <FG_RANGE>1.008-1.016 SG</FG_RANGE>
+ <IBU_RANGE>20.0-30.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.2-2.8 vols</CARB_RANGE>
+ <COLOR_RANGE>4.0-6.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>6.0-7.5 %</ABV_RANGE>
+</STYLE>

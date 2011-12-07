@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Southern English Brown Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>English Brown Ale</CATEGORY>
+ <CATEGORY_NUMBER>11</CATEGORY_NUMBER>
+ <STYLE_LETTER>B</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.03500000</OG_MIN>
+ <OG_MAX>1.04200000</OG_MAX>
+ <FG_MIN>1.01100000</FG_MIN>
+ <FG_MAX>1.01400000</FG_MAX>
+ <IBU_MIN>12.0</IBU_MIN>
+ <IBU_MAX>20.0</IBU_MAX>
+ <COLOR_MIN>19.00000000</COLOR_MIN>
+ <COLOR_MAX>35.00000000</COLOR_MAX>
+ <CARB_MIN>1.3</CARB_MIN>
+ <CARB_MAX>2.3></CARB_MAX>
+ <ABV_MAX>4.2</ABV_MAX>
+ <ABV_MIN>2.8</ABV_MIN>
+ <NOTES>Sweet, low gravity beer that is darker and sweeter than Northern Brown Ale.  Increasingly rare style. Malt oriented brown ale with caramel, dark fruit complexity.</NOTES>
+ <PROFILE>Medium body.  Sweet malty flavor. Low hop aroma and bitterness. Dark brown to almost black in color.  Low esters, diacetyl and fruitiness. Dark fruit (palms/raison) aroma OK. Low to moderate carbonation.</PROFILE>
+ <INGREDIENTS>Pale or Amber malt. Crystal, Chocolate and Roasted malts. English hops such as Goldings, Fuggles and Northdown. English ale yeast. Moderately high carbonate water.</INGREDIENTS>
+ <EXAMPLES>Mann's Brown Ale, Tolly Cobboid Nut Brown Ale</EXAMPLES>
+ <DISPLAY_OG_MIN>1.035 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.042 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.011 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.014 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>19.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>35.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.035-1.042 SG</OG_RANGE>
+ <FG_RANGE>1.011-1.014 SG</FG_RANGE>
+ <IBU_RANGE>12.0-20.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.3-2.3 vols</CARB_RANGE>
+ <COLOR_RANGE>19.0-35.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>2.8-4.2 %</ABV_RANGE>
+</STYLE>

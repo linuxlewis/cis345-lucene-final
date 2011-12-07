@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>American Wheat or Rye Beer</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Light Hybrid Beer</CATEGORY>
+ <CATEGORY_NUMBER>6</CATEGORY_NUMBER>
+ <STYLE_LETTER>D</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Mixed</TYPE>
+ <OG_MIN>1.04000000</OG_MIN>
+ <OG_MAX>1.05500000</OG_MAX>
+ <FG_MIN>1.00800000</FG_MIN>
+ <FG_MAX>1.01300000</FG_MAX>
+ <IBU_MIN>15.0</IBU_MIN>
+ <IBU_MAX>30.0</IBU_MAX>
+ <COLOR_MIN>3.00000000</COLOR_MIN>
+ <COLOR_MAX>6.00000000</COLOR_MAX>
+ <CARB_MIN>2.3</CARB_MIN>
+ <CARB_MAX>2.6></CARB_MAX>
+ <ABV_MAX>5.5</ABV_MAX>
+ <ABV_MIN>4.0</ABV_MIN>
+ <NOTES>Wheat beer brewed with standard ale yeast.  Low to moderate grainy wheat or rye character. Refreshing beer.</NOTES>
+ <PROFILE>Light to medium, crisp flavor and body.  Low to medium bitterness and hop aroma.  Pale yellor to gold color. No clove or banana flavor. Long lasting white head. May be clear to cloudy (hefe).</PROFILE>
+ <INGREDIENTS>Pale malt.  Large portion of wheat malt.  American or noble hops.  Up to 60% wheat malt.  American ale or occasionally lager yeast.  Darker versions acceptable. </INGREDIENTS>
+ <EXAMPLES>Bell's Oberon, Anchor Summer Beer, Pyramid Hefe-weizen, Harpoon UFO Hefeweizen, Sierra Nevada Unfiltered Wheat Beer, Redhook Sunrye</EXAMPLES>
+ <DISPLAY_OG_MIN>1.040 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.055 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.008 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.013 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>6.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.040-1.055 SG</OG_RANGE>
+ <FG_RANGE>1.008-1.013 SG</FG_RANGE>
+ <IBU_RANGE>15.0-30.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.3-2.6 vols</CARB_RANGE>
+ <COLOR_RANGE>3.0-6.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>4.0-5.5 %</ABV_RANGE>
+</STYLE>

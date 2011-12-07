@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Belgian Dark Strong Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Belgian Strong Ale</CATEGORY>
+ <CATEGORY_NUMBER>18</CATEGORY_NUMBER>
+ <STYLE_LETTER>E</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.07500000</OG_MIN>
+ <OG_MAX>1.11500000</OG_MAX>
+ <FG_MIN>1.01000000</FG_MIN>
+ <FG_MAX>1.02400000</FG_MAX>
+ <IBU_MIN>15.0</IBU_MIN>
+ <IBU_MAX>30.0</IBU_MAX>
+ <COLOR_MIN>15.00000000</COLOR_MIN>
+ <COLOR_MAX>20.00000000</COLOR_MAX>
+ <CARB_MIN>2.3</CARB_MIN>
+ <CARB_MAX>2.9></CARB_MAX>
+ <ABV_MAX>13.0</ABV_MAX>
+ <ABV_MIN>8.0</ABV_MIN>
+ <NOTES>Full bodied, deep brown color Belgian ales.  Many variations, but most are malty, alcoholic and fruity.  Most versions reflect unique character of the breweries.</NOTES>
+ <PROFILE>Full bodied, sweet, malty beer.  Low to moderate hop flavor and aroma. Brown color from dark Candi sugar.  May be spicy and phenolic.  High carbonation.</PROFILE>
+ <INGREDIENTS>Belgian malt. Munich or caramel malt. Dark candi sugar usually provides color and increases gravity. Spices rarely used  Unique yeasts to produce fruity esters and phenols. Avoid US/UK crystal malts.</INGREDIENTS>
+ <EXAMPLES>Rouchefort 10, Westvleteren 12, Chimay Grande Reserve, Gouden Carolus Grand Cru of the Emporer, Abbaye des Rocs Grand Cru, Gulden Draak Kasterbier Biere du Chateau Donker</EXAMPLES>
+ <DISPLAY_OG_MIN>1.075 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.115 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.024 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>15.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>20.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.075-1.115 SG</OG_RANGE>
+ <FG_RANGE>1.010-1.024 SG</FG_RANGE>
+ <IBU_RANGE>15.0-30.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.3-2.9 vols</CARB_RANGE>
+ <COLOR_RANGE>15.0-20.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>8.0-13.0 %</ABV_RANGE>
+</STYLE>

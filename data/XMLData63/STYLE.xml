@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Straight (Unblended) Lambic</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Sour Ale</CATEGORY>
+ <CATEGORY_NUMBER>17</CATEGORY_NUMBER>
+ <STYLE_LETTER>D</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.04000000</OG_MIN>
+ <OG_MAX>1.05400000</OG_MAX>
+ <FG_MIN>0.00000000</FG_MIN>
+ <FG_MAX>1.01000000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>10.0</IBU_MAX>
+ <COLOR_MIN>3.00000000</COLOR_MIN>
+ <COLOR_MAX>7.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.6></CARB_MAX>
+ <ABV_MAX>6.5</ABV_MAX>
+ <ABV_MIN>5.0</ABV_MIN>
+ <NOTES>Rare lambic made from spontaneously fermented sour ales.  Fermented with natural occurring yeast and molds from Senne Valley farmhourses.</NOTES>
+ <PROFILE>Light to med-light body. Dry, sour and lactic. Fruity flavors with light fruit variants. Some oak or citrus flavor. Pale yellow to deep golden color. No hop flavor. No diacytl. Low to med carbonation.</PROFILE>
+ <INGREDIENTS>Unmalted wheat (30-40%), pilsner malt, aged hops (3 years).  Hops for preservative - not bitterness. Naturrally occurring yeasts (Saccharomyces, Brettanomyces, Pediococcus, Lactobacillus often substituted).</INGREDIENTS>
+ <EXAMPLES>Cantilllion Grand Cru is only bottled version.  Cafes around Brussels have many draught lambics from local brewers.</EXAMPLES>
+ <DISPLAY_OG_MIN>1.040 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.054 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>0.000 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.010 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>7.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.040-1.054 SG</OG_RANGE>
+ <FG_RANGE>0.000-1.010 SG</FG_RANGE>
+ <IBU_RANGE>0.0-10.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.6 vols</CARB_RANGE>
+ <COLOR_RANGE>3.0-7.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>5.0-6.5 %</ABV_RANGE>
+</STYLE>

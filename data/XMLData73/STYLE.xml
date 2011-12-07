@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>American Barleywine</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Strong Ale</CATEGORY>
+ <CATEGORY_NUMBER>19</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.08000000</OG_MIN>
+ <OG_MAX>1.12500000</OG_MAX>
+ <FG_MIN>1.02000000</FG_MIN>
+ <FG_MAX>1.03500000</FG_MAX>
+ <IBU_MIN>50.0</IBU_MIN>
+ <IBU_MAX>100.0</IBU_MAX>
+ <COLOR_MIN>10.00000000</COLOR_MIN>
+ <COLOR_MAX>22.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.5></CARB_MAX>
+ <ABV_MAX>13.0</ABV_MAX>
+ <ABV_MIN>8.0</ABV_MIN>
+ <NOTES>American version of English Barley wine.  More bitter than English counterpart due to American hops, but hops are not extreme. Alcoholic, malty and fruity.  Well aged - often a year or more.</NOTES>
+ <PROFILE>Full to chewy wine-like body. Moderate hop bitterness flavor and aroma from American hops, but not unbalanced.  Alcohol warmth present. Fruity and malty.  Amber color. Caramel aroma. Low to moderate carbonation.</PROFILE>
+ <INGREDIENTS>Lots of well modified pale malt with moderate caramel malt.  Little or no darker malts. American hops add bitterness. Lengthy boil to enhance color. High gravity American ale yeast. Moderate to hard water.</INGREDIENTS>
+ <EXAMPLES>Sierra Nevada Bigfoot, Hair of the DOg Doggie Claws, Victory Old Horizontal, Brooklyn Monster Ale, Avery Hog Heaven Barleywine, Bell's Thurd Coast Old Ale, Weyerbacher Blithering Idiot</EXAMPLES>
+ <DISPLAY_OG_MIN>1.080 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.125 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.020 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.035 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>10.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>22.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.080-1.125 SG</OG_RANGE>
+ <FG_RANGE>1.020-1.035 SG</FG_RANGE>
+ <IBU_RANGE>50.0-100.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.5 vols</CARB_RANGE>
+ <COLOR_RANGE>10.0-22.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>8.0-13.0 %</ABV_RANGE>
+</STYLE>

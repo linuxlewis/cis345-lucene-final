@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Russian Imperial Stout</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Stout</CATEGORY>
+ <CATEGORY_NUMBER>13</CATEGORY_NUMBER>
+ <STYLE_LETTER>F</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.07500000</OG_MIN>
+ <OG_MAX>1.10000000</OG_MAX>
+ <FG_MIN>1.01800000</FG_MIN>
+ <FG_MAX>1.03400000</FG_MAX>
+ <IBU_MIN>50.0</IBU_MIN>
+ <IBU_MAX>95.0</IBU_MAX>
+ <COLOR_MIN>30.00000000</COLOR_MIN>
+ <COLOR_MAX>45.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.6></CARB_MAX>
+ <ABV_MAX>13.0</ABV_MAX>
+ <ABV_MIN>8.0</ABV_MIN>
+ <NOTES>Robust, strong, malty beer brewed for export to Russia. Rich, sweet, complex, velvety character in an intense dark all.  Roast flavor, fruity, alcoholic and well aged.</NOTES>
+ <PROFILE>Full bodied with velvety, chewy burnt, smoky, malty, fruity, complex flavors. Some coffee or roast cocoa evident. May have dark fruit character. Moderate to high hop flavor and aroma.  Black color. High ester and fruitiness.</PROFILE>
+ <INGREDIENTS>Lots of pale malt with plenty of roasted malt. English hops. American variations have more bitterness. English or American yeast. Slightly alkaline water.</INGREDIENTS>
+ <EXAMPLES>Courage Imperial Stout, Samuel Smith's Imperial Stout, Brooklyn Black Chocolate Stout, Rogue Imperial Stout, Thursty Dog Siberian Night, Great Lakes Blackout Stout</EXAMPLES>
+ <DISPLAY_OG_MIN>1.075 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.100 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.018 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.034 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>30.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>45.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.075-1.100 SG</OG_RANGE>
+ <FG_RANGE>1.018-1.034 SG</FG_RANGE>
+ <IBU_RANGE>50.0-95.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.6 vols</CARB_RANGE>
+ <COLOR_RANGE>30.0-45.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>8.0-13.0 %</ABV_RANGE>
+</STYLE>

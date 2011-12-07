@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Cyser (Apple Melomel)</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Melomel (Fruit Mead)</CATEGORY>
+ <CATEGORY_NUMBER>25</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Mead</TYPE>
+ <OG_MIN>1.08000000</OG_MIN>
+ <OG_MAX>1.12000000</OG_MAX>
+ <FG_MIN>0.99000000</FG_MIN>
+ <FG_MAX>1.05000000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>0.0</IBU_MAX>
+ <COLOR_MIN>1.00000000</COLOR_MIN>
+ <COLOR_MAX>16.00000000</COLOR_MAX>
+ <CARB_MIN>0.0</CARB_MIN>
+ <CARB_MAX>0.0></CARB_MAX>
+ <ABV_MAX>14.0</ABV_MAX>
+ <ABV_MIN>7.5</ABV_MIN>
+ <NOTES>Mead made with honey and apples or apple juice Finsih may vary from dry to sweet. May also be sparkling.</NOTES>
+ <PROFILE>Apple and honey character should be evident in aroma and flavor. Pale to deep amber in color. Dry, sweet, or very sweet flavor. Good clarity.  Aroma will be honey, with hints of fruity esters or alcohol.</PROFILE>
+ <INGREDIENTS>Mead is made from honey, apples or apple juice, water and yeast alone.  Spiced cyser should be entered as open category meads.</INGREDIENTS>
+ <EXAMPLES>White Winter Cyser</EXAMPLES>
+ <DISPLAY_OG_MIN>1.080 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.120 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>0.990 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.050 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>1.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>16.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.080-1.120 SG</OG_RANGE>
+ <FG_RANGE>0.990-1.050 SG</FG_RANGE>
+ <IBU_RANGE>0.0-0.0 IBU</IBU_RANGE>
+ <CARB_RANGE>0.0-0.0 vols</CARB_RANGE>
+ <COLOR_RANGE>1.0-16.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>7.5-14.0 %</ABV_RANGE>
+</STYLE>

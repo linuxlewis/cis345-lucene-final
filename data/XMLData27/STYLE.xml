@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Extra Special/Strong Bitter (English Pale Ale)</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>English Pale Ale</CATEGORY>
+ <CATEGORY_NUMBER>8</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.04800000</OG_MIN>
+ <OG_MAX>1.06500000</OG_MAX>
+ <FG_MIN>1.01000000</FG_MIN>
+ <FG_MAX>1.01600000</FG_MAX>
+ <IBU_MIN>30.0</IBU_MIN>
+ <IBU_MAX>55.0</IBU_MAX>
+ <COLOR_MIN>6.00000000</COLOR_MIN>
+ <COLOR_MAX>18.00000000</COLOR_MAX>
+ <CARB_MIN>1.5</CARB_MIN>
+ <CARB_MAX>2.4></CARB_MAX>
+ <ABV_MAX>6.2</ABV_MAX>
+ <ABV_MIN>4.6</ABV_MIN>
+ <NOTES>Famous style from Burton-on-Trent.  Stronger body than ordinary bitter, but slightly less bitter.  A balanced, easy drinking beer that is malty and strong but not overbearing. </NOTES>
+ <PROFILE>Medium to full body, with medium to high bitterness and hop aroma.  Dry with a defined hop flavor.  Golden to copper color.  Crystal malt evident.  Low carbonation for kegs, medium for bottled version.</PROFILE>
+ <INGREDIENTS>English pale, amber and/or crystal malts.  English hops.  Water with high sulfate profile enhances bitterness perception (i.e. famous Burton-on-Trent Water)</INGREDIENTS>
+ <EXAMPLES>Bass Pale Ale, Whitbread Pale Ale, Royal Oak, Fullers ESB, Marston's Pedigree, Black Sheep Ale, Great Lakes Moondog Ale, Shipyard Old Thumper, Alaskan ESB, Adnams Broadside</EXAMPLES>
+ <DISPLAY_OG_MIN>1.048 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.065 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.016 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>6.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>18.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.048-1.065 SG</OG_RANGE>
+ <FG_RANGE>1.010-1.016 SG</FG_RANGE>
+ <IBU_RANGE>30.0-55.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.5-2.4 vols</CARB_RANGE>
+ <COLOR_RANGE>6.0-18.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>4.6-6.2 %</ABV_RANGE>
+</STYLE>

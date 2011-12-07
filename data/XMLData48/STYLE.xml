@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>English IPA</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>India Pale Ale (IPA)</CATEGORY>
+ <CATEGORY_NUMBER>14</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.05000000</OG_MIN>
+ <OG_MAX>1.07500000</OG_MAX>
+ <FG_MIN>1.01000000</FG_MIN>
+ <FG_MAX>1.01800000</FG_MAX>
+ <IBU_MIN>40.0</IBU_MIN>
+ <IBU_MAX>60.0</IBU_MAX>
+ <COLOR_MIN>8.00000000</COLOR_MIN>
+ <COLOR_MAX>14.00000000</COLOR_MAX>
+ <CARB_MIN>2.2</CARB_MIN>
+ <CARB_MAX>2.7></CARB_MAX>
+ <ABV_MAX>7.5</ABV_MAX>
+ <ABV_MIN>5.0</ABV_MIN>
+ <NOTES>Strong, bitter ale originally a pale ale for export to India.  High alcohol and hop rate was to preserve beer during the long trip from England.  Highly attenuated during the long trip.</NOTES>
+ <PROFILE>Medium maltiness, medium body, dry, with some bready/biscuit flavor.  Evident English hop flavor and aroma.  Color from golden amber to light copper.  No oak flavor. Med to Med-high carbonation.</PROFILE>
+ <INGREDIENTS>Well modified English pale malt. English hops. Complex english yeast with fruity or sulfur/mineral profile.  High sulfate but low carbonate water in many variations.</INGREDIENTS>
+ <EXAMPLES>Freeminer Trafalgar IPA, Hampshire Pride of Romsey IPA, Samuel Smith's India Ale, Fuller's IPA, Shipyard Fuggles IPA, Goose Island IPA</EXAMPLES>
+ <DISPLAY_OG_MIN>1.050 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.075 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.018 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>8.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>14.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.050-1.075 SG</OG_RANGE>
+ <FG_RANGE>1.010-1.018 SG</FG_RANGE>
+ <IBU_RANGE>40.0-60.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.2-2.7 vols</CARB_RANGE>
+ <COLOR_RANGE>8.0-14.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>5.0-7.5 %</ABV_RANGE>
+</STYLE>

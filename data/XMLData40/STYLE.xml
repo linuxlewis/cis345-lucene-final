@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Robust Porter</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Porter</CATEGORY>
+ <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+ <STYLE_LETTER>B</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.04800000</OG_MIN>
+ <OG_MAX>1.06500000</OG_MAX>
+ <FG_MIN>1.01200000</FG_MIN>
+ <FG_MAX>1.01600000</FG_MAX>
+ <IBU_MIN>25.0</IBU_MIN>
+ <IBU_MAX>55.0</IBU_MAX>
+ <COLOR_MIN>22.00000000</COLOR_MIN>
+ <COLOR_MAX>40.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.5></CARB_MAX>
+ <ABV_MAX>6.0</ABV_MAX>
+ <ABV_MIN>4.8</ABV_MIN>
+ <NOTES>Stronger, darker version of porter with a slight dryness.  Flavor derived from chocolate and black malts, but lacks the strong roasted flavor of a dry stout. Roasty aroma.</NOTES>
+ <PROFILE>Medium to full body, slightly dry. Well balanced, low to medium malt flavor and hop bitterness.  Dark brown to black color. Medium to no hop flavor.  Low ester, fruitiness, diacytl.  Low to med carbonation.</PROFILE>
+ <INGREDIENTS>English malt. Dark Crystal, chocolate and black or roast malt. Often black patent, chocolate and roasted malts. Traditional english ale hops and yeast.  Moderate to high carbonate water.</INGREDIENTS>
+ <EXAMPLES>Sierra Nevada Porter, Anchor Porter, Bell's Porter, Thirsty Dog Old Leghumper, Otter Creek Stovepipe Porter, Avery New World Porter, Redhook Blackhook Porter</EXAMPLES>
+ <DISPLAY_OG_MIN>1.048 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.065 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.012 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.016 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>22.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>40.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.048-1.065 SG</OG_RANGE>
+ <FG_RANGE>1.012-1.016 SG</FG_RANGE>
+ <IBU_RANGE>25.0-55.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.5 vols</CARB_RANGE>
+ <COLOR_RANGE>22.0-40.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>4.8-6.0 %</ABV_RANGE>
+</STYLE>

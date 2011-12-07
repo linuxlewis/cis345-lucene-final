@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Braggot</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Other Mead</CATEGORY>
+ <CATEGORY_NUMBER>26</CATEGORY_NUMBER>
+ <STYLE_LETTER>B</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Mead</TYPE>
+ <OG_MIN>1.06000000</OG_MIN>
+ <OG_MAX>1.13000000</OG_MAX>
+ <FG_MIN>1.00400000</FG_MIN>
+ <FG_MAX>1.02500000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>50.0</IBU_MAX>
+ <COLOR_MIN>3.00000000</COLOR_MIN>
+ <COLOR_MAX>16.00000000</COLOR_MAX>
+ <CARB_MIN>1.8</CARB_MIN>
+ <CARB_MAX>2.8></CARB_MAX>
+ <ABV_MAX>14.0</ABV_MAX>
+ <ABV_MIN>6.5</ABV_MIN>
+ <NOTES>Mead made with a mix of honey and malt. Alternatively may be made by mixing mead with ale.  Hopped varieties (optional) should have a evident hop flavor.</NOTES>
+ <PROFILE>Flavor and aroma should reflect a mix of beer and mead flavoring. Pale to dark colored.  Bitterness should balance with honey character.  Should have some head retention if carbonated.</PROFILE>
+ <INGREDIENTS>Made from > 1/3 malt and = 2/3 honey (though this may vary)  Hops optional for bitterness.  May be lightly to heavily carbonated.  Styles using ingredients other than honey and malt should be entered in open mead category.</INGREDIENTS>
+ <EXAMPLES>Magic Hat Braggot, Brother Adams Braggot Barleywine Ale, White Winter Traditional Brackett</EXAMPLES>
+ <DISPLAY_OG_MIN>1.060 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.130 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.004 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.025 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>16.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.060-1.130 SG</OG_RANGE>
+ <FG_RANGE>1.004-1.025 SG</FG_RANGE>
+ <IBU_RANGE>0.0-50.0 IBU</IBU_RANGE>
+ <CARB_RANGE>1.8-2.8 vols</CARB_RANGE>
+ <COLOR_RANGE>3.0-16.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>6.5-14.0 %</ABV_RANGE>
+</STYLE>

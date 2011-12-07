@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Gueuze</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Sour Ale</CATEGORY>
+ <CATEGORY_NUMBER>17</CATEGORY_NUMBER>
+ <STYLE_LETTER>E</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.04000000</OG_MIN>
+ <OG_MAX>1.06000000</OG_MAX>
+ <FG_MIN>0.00000000</FG_MIN>
+ <FG_MAX>1.00600000</FG_MAX>
+ <IBU_MIN>0.0</IBU_MIN>
+ <IBU_MAX>10.0</IBU_MAX>
+ <COLOR_MIN>3.00000000</COLOR_MIN>
+ <COLOR_MAX>7.00000000</COLOR_MAX>
+ <CARB_MIN>2.4</CARB_MIN>
+ <CARB_MAX>3.1></CARB_MAX>
+ <ABV_MAX>8.0</ABV_MAX>
+ <ABV_MIN>5.0</ABV_MIN>
+ <NOTES>Blend of aged lambic and young lambic that is bottle conditioned without sugar added. Sharp, dry and effervescent.  Bottle conditioned from several months to several years.  Smoother than pure Lambic.  15% or more "young" Lambic.</NOTES>
+ <PROFILE>Light to med-light body. Sharp, dry and moderately sour with a toasty aroma.  Low sweetness. No hop flavor or aroma. Slight lactic acid flavor. Golden color. Highly carbonated.</PROFILE>
+ <INGREDIENTS>Pale Belgian malt. By royal decree, 30-40% unmalted wheat is used. Stale hops (2-3 years old) or low alpha hops.  Unique yeasts a must - (Saccharomyces, Brettanomyces, Pediococcus, Lactobacillus) Soft to moderately hard water.</INGREDIENTS>
+ <EXAMPLES>Lindemans Gueuze, Girardin's Classic Gueuze, Boon Oude Gueuze, Drie Fonteinen Oud Gueuze, Oud Beersel Oude Gueuze, Cantillion Gueuze, Hanssens Gueuze</EXAMPLES>
+ <DISPLAY_OG_MIN>1.040 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.060 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>0.000 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.006 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>3.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>7.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.040-1.060 SG</OG_RANGE>
+ <FG_RANGE>0.000-1.006 SG</FG_RANGE>
+ <IBU_RANGE>0.0-10.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.4-3.1 vols</CARB_RANGE>
+ <COLOR_RANGE>3.0-7.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>5.0-8.0 %</ABV_RANGE>
+</STYLE>

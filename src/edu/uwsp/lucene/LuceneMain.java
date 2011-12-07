@@ -61,7 +61,8 @@ public class LuceneMain {
 				reader.parse(new InputSource(new FileReader(file)));
 				Document doc = splitter.getDoc();
 				splitter.clearDoc();
-				doc.add(new Field("$$$FileName", file.getName(), Field.Store.YES, Field.Index.ANALYZED));
+				//file.get
+				doc.add(new Field("$$$FileName", file.getPath(), Field.Store.YES, Field.Index.ANALYZED));
 				docVector.add(doc);
 				//System.out.println(doc.getFields().size());
 			}
@@ -81,17 +82,34 @@ public class LuceneMain {
 		iw.close();
 		
 		IndexSearcher is = new IndexSearcher(d,true);
-		Query query = new QueryParser(Version.LUCENE_34, "country", anal).parse("Croatia");
-        TopScoreDocCollector collector = TopScoreDocCollector.create(10,true);
-        is.search(query,collector);
-        ScoreDoc[] hits = collector.topDocs().scoreDocs;
+		
+		String tagName;
+		do{
+			
+			System.out.print("Tag to find (type 'q' to quit): ");	
+			tagName = keyboard.readLine();
+			
+			if(!tagName.equalsIgnoreCase("Q"))
+			{
+				System.out.print("Value to find: ");	
+				String value = keyboard.readLine();
+				System.out.println(tagName + ": " + value);
+				
+				Query query = new QueryParser(Version.LUCENE_34, tagName, anal).parse(value);
+		        TopScoreDocCollector collector = TopScoreDocCollector.create(10,true);
+		        is.search(query,collector);
+		        ScoreDoc[] hits = collector.topDocs().scoreDocs;
+		        
+		        System.out.println("Found " + hits.length + " hits.");
+		        for(int i=0;i<hits.length;++i) {
+		          int docId = hits[i].doc;
+		          Document de = is.doc(docId);
+		          System.out.println((i + 1) + ". " + de.get("$$$FileName"));
+		        }
+			}
+		}
+		while(!tagName.equalsIgnoreCase("Q"));
         
-        System.out.println("Found " + hits.length + " hits.");
-        for(int i=0;i<hits.length;++i) {
-          int docId = hits[i].doc;
-          Document de = is.doc(docId);
-          System.out.println((i + 1) + ". " + de.get("$$$FileName"));
-        }
 
         // searcher can only be closed when there
         // is no need to access the documents any more. 

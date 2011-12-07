@@ -1,0 +1,38 @@
+
+<STYLE>
+ <NAME>Baltic Porter</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Porter</CATEGORY>
+ <CATEGORY_NUMBER>12</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2004</STYLE_GUIDE>
+ <TYPE>Mixed</TYPE>
+ <OG_MIN>1.06000000</OG_MIN>
+ <OG_MAX>1.09000000</OG_MAX>
+ <FG_MIN>1.01600000</FG_MIN>
+ <FG_MAX>1.02400000</FG_MAX>
+ <IBU_MIN>20.0</IBU_MIN>
+ <IBU_MAX>40.0</IBU_MAX>
+ <COLOR_MIN>17.00000000</COLOR_MIN>
+ <COLOR_MAX>30.00000000</COLOR_MAX>
+ <CARB_MIN>2.3</CARB_MIN>
+ <CARB_MAX>2.8></CARB_MAX>
+ <ABV_MAX>9.5</ABV_MAX>
+ <ABV_MIN>5.5</ABV_MIN>
+ <NOTES>Traditional beer from countries bordering the Baltic Sea.  A cross between English Porters influenced also by Russian Stouts.  Rich malty sweetness with complex blend of deep malts.</NOTES>
+ <PROFILE>Full bodied. Smooth. Aged alcohol warmth. Sweet, malty, roasted flavor that stops short of burnt.  Med to low bitterness. Dark fruits, caramel, toffee or currant flavors add to complexity. Med to med-high carbonation.</PROFILE>
+ <INGREDIENTS>Munich or Vienna malt base. Chocolate or black malt. Continental hops to balance. Crystal, brown or amber malts to add to complexity. Lager yeast or cold fermented ale yeast. Complex adjuncts in small amounts.</INGREDIENTS>
+ <EXAMPLES>Sinebrychoof Porter, Baltika Porter, Aldaris Porteris, Stepan Razin Porter, Utenos Porter</EXAMPLES>
+ <DISPLAY_OG_MIN>1.060 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.090 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.016 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.024 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>17.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>30.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.060-1.090 SG</OG_RANGE>
+ <FG_RANGE>1.016-1.024 SG</FG_RANGE>
+ <IBU_RANGE>20.0-40.0 IBU</IBU_RANGE>
+ <CARB_RANGE>2.3-2.8 vols</CARB_RANGE>
+ <COLOR_RANGE>17.0-30.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>5.5-9.5 %</ABV_RANGE>
+</STYLE>
