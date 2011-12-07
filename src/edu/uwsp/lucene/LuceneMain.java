@@ -69,7 +69,7 @@ public class LuceneMain {
 		//create the index
 		Directory d = new RAMDirectory();
 		StandardAnalyzer anal = new StandardAnalyzer(Version.LUCENE_34);
-		IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_34, null);
+		IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_34, anal);
 		IndexWriter iw = new IndexWriter(d, config);
 		for (Document document : docVector) {
 			iw.addDocument(document);
