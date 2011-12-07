@@ -14,9 +14,11 @@ import org.apache.lucene.analysis.SimpleAnalyzer;
 import org.apache.lucene.analysis.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
+import org.apache.lucene.queryParser.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -59,6 +61,7 @@ public class LuceneMain {
 				reader.parse(new InputSource(new FileReader(file)));
 				Document doc = splitter.getDoc();
 				splitter.clearDoc();
+				doc.add(new Field("$$$FileName", file.getName(), Field.Store.YES, Field.Index.ANALYZED));
 				docVector.add(doc);
 				//System.out.println(doc.getFields().size());
 			}
@@ -78,7 +81,7 @@ public class LuceneMain {
 		iw.close();
 		
 		IndexSearcher is = new IndexSearcher(d,true);
-		Query query = new TermQuery(new Term("country", "Croatia"));
+		Query query = new QueryParser(Version.LUCENE_34, "country", anal).parse("Croatia");
         TopScoreDocCollector collector = TopScoreDocCollector.create(10,true);
         is.search(query,collector);
         ScoreDoc[] hits = collector.topDocs().scoreDocs;
@@ -87,7 +90,7 @@ public class LuceneMain {
         for(int i=0;i<hits.length;++i) {
           int docId = hits[i].doc;
           Document de = is.doc(docId);
-          System.out.println((i + 1) + ". " + de.get("country"));
+          System.out.println((i + 1) + ". " + de.get("$$$FileName"));
         }
 
         // searcher can only be closed when there
