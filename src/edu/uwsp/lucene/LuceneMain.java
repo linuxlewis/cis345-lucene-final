@@ -32,10 +32,6 @@ public class LuceneMain {
 		reader.parse(new InputSource(new FileReader(file)));
 		Document doc = splitter.getDoc();
 		
-		//System.out.println(doc.getFields().size());
-		Analyzer anal = new WhitespaceAnalyzer();
-		Directory d = new Directory();
-		IndexWriter iw = new IndexWriter(d, anal,true, 200);
 		
 	}
 
