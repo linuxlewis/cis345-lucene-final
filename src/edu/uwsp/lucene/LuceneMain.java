@@ -89,7 +89,7 @@ public class LuceneMain {
         for(int i=0;i<hits.length;++i) {
           int docId = hits[i].doc;
           Document de = is.doc(docId);
-          System.out.println((i + 1) + ". " + de.get("lastname"));
+          System.out.println((i + 1) + ". " + de.get("country"));
         }
 
         // searcher can only be closed when there
