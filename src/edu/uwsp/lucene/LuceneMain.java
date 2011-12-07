@@ -1,6 +1,8 @@
 package edu.uwsp.lucene;
 
+import java.io.File;
 import java.io.FileReader;
+import java.io.FilenameFilter;
 
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
@@ -16,7 +18,15 @@ public class LuceneMain {
 	 * @throws Exception 
 	 */
 	public static void main(String[] args) throws Exception{
-		String file = "department.xml";
+		File dir = new File("data/");
+
+    	File[] fileArray = {};
+    	fileArray = dir.listFiles(new FilenameFilter() { 
+    	         public boolean accept(File dir, String filename)
+    	              { return filename.endsWith(".xml"); }
+    	} );
+		
+//		String file = "department.xml";
 		SAXParserFactory pfactory = SAXParserFactory.newInstance();
 		pfactory.setValidating(false);
 		pfactory.setNamespaceAware(true);
@@ -24,9 +34,14 @@ public class LuceneMain {
 		XMLReader reader = parser.getXMLReader();
 		LuceneSaxParser splitter = new LuceneSaxParser();
 		reader.setContentHandler(splitter);
-		reader.parse(new InputSource(new FileReader(file)));
-		Document doc = splitter.getDoc();
-		System.out.println(doc.getFields().size());
+		if(fileArray != null)
+		{
+			for (File file : fileArray) {
+				reader.parse(new InputSource(new FileReader(file)));
+				Document doc = splitter.getDoc();			
+				System.out.println(doc.getFields().size());
+			}
+		}
 	}
 
 }
