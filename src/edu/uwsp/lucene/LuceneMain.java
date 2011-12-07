@@ -17,6 +17,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
+import org.apache.lucene.queryParser.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -78,7 +79,8 @@ public class LuceneMain {
 		iw.close();
 		
 		IndexSearcher is = new IndexSearcher(d,true);
-		Query query = new TermQuery(new Term("lastname", "Aboulnaga"));
+		//Query query = new TermQuery(new Term("lastname", "Aboulnaga"));
+		Query query = new QueryParser(Version.LUCENE_34, "country", anal).parse("USA");
         TopScoreDocCollector collector = TopScoreDocCollector.create(10,true);
         is.search(query,collector);
         ScoreDoc[] hits = collector.topDocs().scoreDocs;
