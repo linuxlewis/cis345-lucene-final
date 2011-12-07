@@ -1,6 +1,10 @@
 package edu.uwsp.lucene;
 
+import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
+import java.io.InputStreamReader;
+import java.util.Vector;
 
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
@@ -33,8 +37,12 @@ public class LuceneMain {
 	 * @throws Exception 
 	 */
 	public static void main(String[] args) throws Exception{
-		String indexDir = "data/";
-		String file = "department.xml";
+		// build fileArray
+		File dir = new File("data/");
+		Vector<File> fileArray = (new FileTraversal()).traverse(dir, ".xml");
+    	
+		BufferedReader keyboard = new BufferedReader(new InputStreamReader(System.in));
+		
 		SAXParserFactory pfactory = SAXParserFactory.newInstance();
 		pfactory.setValidating(false);
 		pfactory.setNamespaceAware(true);
@@ -42,8 +50,19 @@ public class LuceneMain {
 		XMLReader reader = parser.getXMLReader();
 		LuceneSaxParser splitter = new LuceneSaxParser();
 		reader.setContentHandler(splitter);
-		reader.parse(new InputSource(new FileReader(file)));
-		Document doc = splitter.getDoc();
+		Vector<Document> docVector = new Vector<Document>();
+		
+		// fileArray will be null if there is no .xml files found
+		if(fileArray != null)
+		{
+			for (File file : fileArray) {
+				reader.parse(new InputSource(new FileReader(file)));
+				Document doc = splitter.getDoc();
+				splitter.clearDoc();
+				docVector.add(doc);
+				//System.out.println(doc.getFields().size());
+			}
+		}
 		
 		//System.out.println(doc.getFields().size());
 		
@@ -52,7 +71,9 @@ public class LuceneMain {
 		StandardAnalyzer anal = new StandardAnalyzer(Version.LUCENE_34);
 		IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_34, null);
 		IndexWriter iw = new IndexWriter(d, config);
-		iw.addDocument(doc);
+		for (Document document : docVector) {
+			iw.addDocument(document);
+		}
 		iw.optimize();
 		iw.close();
 		

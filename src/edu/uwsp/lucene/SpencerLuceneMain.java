@@ -53,11 +53,13 @@ public class SpencerLuceneMain {
 			System.out.println(document.getFields().size());
 		}
 		
+		/*
 		System.out.print("Tag to find: ");	
 		String test = keyboard.readLine();
 		System.out.print("Value to find: ");	
 		String value = keyboard.readLine();
-		System.out.println(test + ": " + value);	
+		System.out.println(test + ": " + value);
+		*/	
 	}
 
 }
