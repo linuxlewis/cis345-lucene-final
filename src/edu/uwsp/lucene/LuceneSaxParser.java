@@ -33,7 +33,8 @@ public class LuceneSaxParser extends DefaultHandler {
     	printS.trim();
     	if(printS.length()>0)
     		//System.out.print(" | tag:" + startTag + ": " + printS);
-    		doc.add(new Field(startTag, printS.getBytes()));
+    		//Field.Store.YES, Field.Index.ANALYZED
+    		doc.add(new Field(startTag, printS, Field.Store.YES, Field.Index.ANALYZED));
 	}
 
 	@Override

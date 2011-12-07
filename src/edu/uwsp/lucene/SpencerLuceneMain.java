@@ -1,8 +1,10 @@
 package edu.uwsp.lucene;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FilenameFilter;
+import java.io.InputStreamReader;
 import java.util.Vector;
 
 import javax.xml.parsers.SAXParser;
@@ -24,6 +26,7 @@ public class SpencerLuceneMain {
 		File dir = new File("data/");
 		Vector<File> fileArray = (new FileTraversal()).traverse(dir, ".xml");
     	
+		BufferedReader keyboard = new BufferedReader(new InputStreamReader(System.in));
 		
 		SAXParserFactory pfactory = SAXParserFactory.newInstance();
 		pfactory.setValidating(false);
@@ -49,6 +52,12 @@ public class SpencerLuceneMain {
 		for (Document document : docVector) {
 			System.out.println(document.getFields().size());
 		}
+		
+		System.out.print("Tag to find: ");	
+		String test = keyboard.readLine();
+		System.out.print("Value to find: ");	
+		String value = keyboard.readLine();
+		System.out.println(test + ": " + value);	
 	}
 
 }
